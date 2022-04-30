@@ -1,5 +1,6 @@
 # btGiuaKiKTLT_C
 /*huong di de chuyen chuoi thanh mot da thuc dang mang.
+
 1.nhap chuoi chua ca khoang trang => nhapXuatChuoiDaThuc
 2.xoa khoang trang de xu ly chuoi de dang hon => can co ham xoa mot ky tu => xoaKhoangTrang & xoaMotKyTu
 3.vi nguoi dung nhap vao dang...+ X + heso+... => them ^1 vao sau X va them X^0 vao sau heso => dathucStupid.
